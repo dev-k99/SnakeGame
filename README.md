@@ -26,6 +26,14 @@ A simple, nostalgic **Snake** game built with **pure HTML, CSS, and JavaScript**
 
 ![Game Play](image.png)
 
+## DEMO
+Watch a quick gameplay demo:
+
+
+https://github.com/user-attachments/assets/4f48d77d-e6eb-42ea-9ed6-46fe1ec65ec5
+
+
+
 ## How to Run / Contribute
 1. Clone or download this repository
 2. Open `snake.html` in your browser
